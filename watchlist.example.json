@@ -1,0 +1,6 @@
+{
+  "symbols": ["AAPL", "MSFT", "GOOGL", "NVDA"],
+  "alerts": ["AAPL>250", "MSFT<350", "NVDA%5"],
+  "interval": 60,
+  "provider": "yahoo"
+}
